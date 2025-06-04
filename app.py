@@ -48,14 +48,6 @@ def get_exercises():
             "equipment": "Pilates Ring",
             "difficulty": "Intermediate",
             "instructions": "Use ring for leg circles, bridge pulses, and hundreds."
-        },
-        {
-            "name": "Yoga Flow",
-            "body_part": "Core",
-            "equipment": "Yoga Mat",
-            "difficulty": "Beginner",
-            "instructions": "Perform sun salutations, cat-cow stretches, and cobra pose.",
-            "duration": "5 minutes"
         }
     ]
 
